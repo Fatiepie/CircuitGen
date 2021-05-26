@@ -1,2 +1,2 @@
 # CircuitSim
-Circuit Simulator 
+Circuit Simulator Project
