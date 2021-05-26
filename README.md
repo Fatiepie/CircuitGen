@@ -1,2 +1,2 @@
-# CircuitSim
-Circuit Simulator Project
+# CircuitGen
+Circuit Generator Project
